@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  .App {
+    font-family: sans-serif;
+    width: 764px;
+    margin: 0 auto;
+    margin-top: 10%
+  }  
+   
+  
+  #inp {
+    height: 50px;
+    width: 100%;
+    font-size: 30px
+  }
+  
+  

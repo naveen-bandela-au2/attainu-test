@@ -1,0 +1,194 @@
+[
+    {
+        "Id": 1,
+        "Station_name": "Radio mirchi",
+        "City": "Mumbai",
+        "Frequency": "98.3 FM",
+        "Language": "Hindi",
+        "st_img": "http://media.radiomirchi.com/onlinestation/banners/MeethiMirchi668.jpg",
+        "st_url": "http://peridot.streamguys.com:7150/Mirchi",
+        "type" : "Entertimement"
+    },
+    {
+        "Id": 2,
+        "Station_name": "AP 9 FM",
+        "City": "Hyderabad",
+        "Frequency": "NA",
+        "Language": "Telugu",
+        "st_img": "http://ap9fm.com/wp-content/uploads/ap9fm_logo_195px.png",
+        "st_url": "http://s2.voscast.com:10704/",
+        "type" : "Entertimement"
+    },
+    {
+        "Id": 3,
+        "Station_name": "Teluguone Radio",
+        "City": "Hyderabad",
+        "Frequency": "NA",
+        "Language": "Telugu",
+        "st_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqWP2rW7tgAEdk33mbzM-gAW86xn3CXgk0eAFESXgadBAHgDXh",
+        "st_url": "http://173.203.133.187:9700/",
+        "type" : "Entertimement"
+    },
+    {
+        "Id": 94,
+        "Station_name": "Radio Mirchi Telugu Hits",
+        "City": "Hyderabad",
+        "Frequency": "NA",
+        "Language": "Telugu",
+        "st_img": "https://onlineradiofm.in/assets/image/radio/180/teluguhits.jpg",
+        "st_url": "https://mirchitapakahd-lh.akamaihd.net/i/mirchitapakahdlive_1_1@322572/index_1_a-p.m3u8?sd=10&rebase=on",
+        "type" : "Entertimement"
+    },
+    {
+        "Id": 5,
+        "Station_name": "Kokila radio",
+        "City": "Hyderabad",
+        "Frequency": "NA",
+        "Language": "Telugu",
+        "st_img": "https://onlineradiofm.in/assets/image/radio/180/TeluguKokila-Telugu-Kokila-Radio-300x300.png",
+        "st_url": "http://52.3.202.102:8000/;stream/1",
+        "type" : "Entertimement"
+    },
+    {
+        "Id": 6,
+        "Station_name": "Radio Myind Media",
+        "City": "Hyderabad",
+        "Frequency": "NA",
+        "Language": "Telugu",
+        "st_img": "https://onlineradiofm.in/assets/image/radio/180/myindmedia.png",
+        "st_url": "http://52.3.202.102:8000/;stream.mp3/1",
+        "type" : "NEWS"
+    },
+    {
+        "Id": 6,
+        "Station_name": "School Radio",
+        "City": "Hyderabad",
+        "Frequency": "NA",
+        "Language": "Telugu",
+        "st_img": "https://onlineradiofm.in/assets/image/radio/180/schoolradio.jpg",
+        "st_url": "http://209.133.216.3:7316/stream",
+        "type" : "Entertimement"
+    },
+    {
+        "Id": 6,
+        "Station_name": "Telugu NRI Radio",
+        "City": "Hyderabad",
+        "Frequency": "NA",
+        "Language": "Telugu",
+        "st_img": "https://onlineradiofm.in/assets/image/radio/180/TeluguNRIRadio.png",
+        "st_url": "http://192.240.102.133:12203/;stream.mp3",
+        "type" : "Entertimement"
+    },
+    {
+        "Id": 6,
+        "Station_name": "All India Radio Air Akashvani",
+        "City": "Hyderabad",
+        "Frequency": "NA",
+        "Language": "Telugu",
+        "st_img": "https://onlineradiofm.in/assets/image/radio/180/all-india-air.png",
+        "st_url": "http://51.15.208.163:8081/radio/air-akashvani/icecast.audio",
+        "type" : "News"
+    },
+    {
+        "Id": 6,
+        "Station_name": "All India Radio Air Telugu",
+        "City": "Hyderabad",
+        "Frequency": "NA",
+        "Language": "Telugu",
+        "st_img": "https://onlineradiofm.in/assets/image/radio/180/AIRTelugu.png",
+        "st_url": "http://51.15.208.163:8081/radio/airtelugu/icecast.audio",
+        "type" : "Entertimement"
+    },
+    {
+        "Id": 96,
+        "Station_name": "Mirchi Love Telugu Radio",
+        "City": "Hyderabad",
+        "Frequency": "104 FM",
+        "Language": "Telugu",
+        "st_img": "https://onlineradiofm.in/assets/image/radio/180/Mirchi-Love.jpg",
+        "st_url": "https://mirchilovetelugu-lh.akamaihd.net/i/Mirchi_love_telugu_1@504635/index_50_a-p.m3u8?sd=10&rebase=on",
+        "type" : "Entertimement"
+    },
+    {
+        "Id": 6,
+        "Station_name": "All India Radio Air Kannada",
+        "City": "Bangalore",
+        "Frequency": "NA",
+        "Language": "kannada",
+        "st_img": "https://onlineradiofm.in/assets/image/radio/180/AIRKannada.jpg",
+        "st_url": "http://51.15.208.163:8081/radio/airkannada12/icecast.audio",
+        "type" : "Entertimement"
+    },
+    {
+        "Id": 6,
+        "Station_name": "Radio City Kannada",
+        "City": "Bangalore",
+        "Frequency": "NA",
+        "Language": "kannada",
+        "st_img": "https://onlineradiofm.in/assets/image/radio/180/City-Kannada.png",
+        "st_url": "http://prclive1.listenon.in:8870",
+        "type" : "Entertimement"
+    },
+    {
+        "Id": 6,
+        "Station_name": "Radio Madhur Tarang",
+        "City": "Bangalore",
+        "Frequency": "NA",
+        "Language": "kannada",
+        "st_img": "https://onlineradiofm.in/assets/image/radio/180/madhur-tarang.png",
+        "st_url": "http://176.31.107.8:8293/stream",
+        "type" : "Entertimement"
+    },
+    {
+        "Id": 6,
+        "Station_name": "Raagam Radio",
+        "City": "Bangalore",
+        "Frequency": "100.1 FM",
+        "Language": "kannada",
+        "st_img": "https://onlineradiofm.in/assets/image/radio/180/raagam.png",
+        "st_url": "http://104.237.4.164:8009/autodj",
+        "type" : "Entertimement"
+    },
+    {
+        "Id": 6,
+        "Station_name": "Namm Radio",
+        "City": "Bangalore",
+        "Frequency": "NA",
+        "Language": "kannada",
+        "st_img": "https://onlineradiofm.in/assets/image/radio/180/Namm-radio.jpg",
+        "st_url": "http://stream.radio.co/s56e9f6a10/listen",
+        "type" : "Entertimement"
+    },
+    {
+        "Id": 6,
+        "Station_name": "Radio City Premaloka",
+        "City": "Bangalore",
+        "Frequency": "NA",
+        "Language": "kannada",
+        "st_img": "https://onlineradiofm.in/assets/image/radio/180/Radio-City-Premaloka.png",
+        "st_url": "http://prclive1.listenon.in:9934/",
+        "type" : "Entertimement"
+    },
+    {
+        "Id": 6,
+        "Station_name": "Alp Radio",
+        "City": "Bangalore",
+        "Frequency": "NA",
+        "Language": "kannada",
+        "st_img": "https://onlineradiofm.in/assets/image/radio/180/alpradio.jpg",
+        "st_url": "http://rosetta.shoutca.st:8333/stream",
+        "type" : "Entertimement"
+    },
+    {
+        "Id": 6,
+        "Station_name": "Radio Girmit",
+        "City": "Bangalore",
+        "Frequency": "NA",
+        "Language": "kannada",
+        "st_img": "https://onlineradiofm.in/assets/image/radio/180/radio-gitmit.jpg",
+        "st_url": "http://ample-02.radiojar.com/vpzg366xaseuv",
+        "type" : "Entertimement"
+    }
+    
+    
+]
